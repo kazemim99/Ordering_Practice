@@ -1,5 +1,5 @@
 ﻿using MediatR;
-using Microsoft.eShopOnContainers.Services.Ordering.Domain.AggregatesModel.OrderAggregate;
+using Ordering.Domain.AggregatesModel.Order;
 
 namespace Ordering.Domain.Events
 {
